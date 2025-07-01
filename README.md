@@ -27,3 +27,6 @@ What I’m most proud of is that I didn’t just copy solutions. I took the time
 
 This was not just about completing a task, but about learning how to think logically and build something from scratch using code. I now understand the real-world use of linked lists and how powerful they can be in managing dynamic data.
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/eb4b66ee-abcf-4b7a-99c9-55f640aa9a9d)
